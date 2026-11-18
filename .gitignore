@@ -1,0 +1,14 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Original and confidential datasets
+data/original/
+data/raw/
+data/confidential/
+
+# Original Excel workbooks
+*.xlsx
+*.xls
